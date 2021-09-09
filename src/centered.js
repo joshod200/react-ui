@@ -1,5 +1,5 @@
 import React from "react";
-import Center from "components/center";
+import Center from "./center";
 
 const Centered = ({children, size}) => {
   return(
